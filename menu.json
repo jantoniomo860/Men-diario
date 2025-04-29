@@ -1,0 +1,7 @@
+[
+  { "order": 1, "name": "Costillas BBQ" },
+  { "order": 2, "name": "Cazuela Marinera" },
+  { "order": 3, "name": "Lomo Saltado" },
+  // …
+  { "order": 26, "name": "Poke bowl de atún rojo" }
+]
